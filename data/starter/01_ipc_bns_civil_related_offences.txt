@@ -1,0 +1,96 @@
+IPC TO BNS MAPPING - CRIMINAL PROVISIONS THAT COMMONLY ARISE ALONGSIDE CIVIL DISPUTES
+Source type: Starter notes (verify against the official Bare Act on indiacode.nic.in before relying on them)
+
+### General rule: IPC or BNS - which law applies?
+The Bharatiya Nyaya Sanhita, 2023 (BNS) replaced the Indian Penal Code, 1860 (IPC) with effect from 1 July 2024.
+Offences committed BEFORE 1 July 2024 are still tried under the IPC. Offences committed ON or AFTER 1 July 2024 are governed by the BNS.
+Procedure: the Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) replaced the Code of Criminal Procedure, 1973 (CrPC).
+Evidence: the Bharatiya Sakshya Adhiniyam, 2023 (BSA) replaced the Indian Evidence Act, 1872.
+Civil suits are NOT governed by BNS/IPC. Civil suits are governed by the Code of Civil Procedure, 1908 (CPC), the Specific Relief Act, 1963, the Limitation Act, 1963, the Transfer of Property Act, 1882, the Indian Contract Act, 1872 and similar laws. The BNS/IPC becomes relevant only when the same facts also disclose a criminal offence (cheating, breach of trust, forgery, trespass, etc.).
+A civil suit and a criminal complaint on the same facts can run in parallel, but courts quash criminal cases that are only an attempt to give a purely civil dispute a criminal colour (see Indian Oil Corporation v. NEPC India Ltd., (2006) 6 SCC 736).
+
+### IPC 405 / 406 -> BNS 316(1) / 316(2) | Criminal breach of trust
+Old law: IPC Section 405 (definition) and Section 406 (punishment). New law: BNS Section 316(1) (definition) and Section 316(2) (punishment).
+What it covers: a person entrusted with property, or with dominion over property, dishonestly misappropriates it, converts it to own use, or dishonestly uses or disposes of it in violation of the trust or legal contract.
+Punishment under BNS 316(2): imprisonment up to 5 years, or fine, or both (IPC 406 was up to 3 years).
+Aggravated forms: BNS 316(3) carrier/wharfinger (old IPC 407); BNS 316(4) clerk or servant (old IPC 408); BNS 316(5) public servant, banker, merchant, agent (old IPC 409).
+Civil-case relevance: disputes where money/goods/documents were entrusted (security deposit, jewellery given to in-laws (stridhan), goods given on consignment, business partner misusing funds). Civil remedy: suit for recovery of money/movable property, accounts, or injunction.
+Key point: entrustment must be proved. A simple failure to repay a loan is not criminal breach of trust because a loan is not entrustment.
+
+### IPC 415 / 417 / 420 -> BNS 318 | Cheating
+Old law: IPC 415 (definition), IPC 417 (punishment for cheating), IPC 418 (cheating with knowledge of wrongful loss to person whose interest offender is bound to protect), IPC 420 (cheating and dishonestly inducing delivery of property).
+New law: BNS 318(1) definition; BNS 318(2) punishment up to 3 years, or fine, or both; BNS 318(3) up to 5 years, or fine, or both; BNS 318(4) cheating and dishonestly inducing delivery of property - imprisonment up to 7 years and fine (old IPC 420).
+Cheating by personation: IPC 416/419 -> BNS 319.
+Civil-case relevance: property sale fraud, taking advance money with no intention to deliver, builder taking booking amount, fake job/visa promises, selling the same plot to two buyers.
+Key test: fraudulent or dishonest intention must exist AT THE TIME the promise was made. A later failure to keep the promise is only breach of contract (civil). See Hridaya Ranjan Prasad Verma v. State of Bihar, (2000) 4 SCC 168.
+Civil remedy alongside: suit for recovery of money with interest, suit for specific performance (Specific Relief Act Section 10), suit for cancellation of the sale deed (Specific Relief Act Section 31), or summary suit under Order 37 CPC if based on a written contract/negotiable instrument.
+
+### IPC 403 -> BNS 314 | Dishonest misappropriation of property
+New law: BNS Section 314 - imprisonment of not less than 6 months which may extend to 2 years, and fine.
+What it covers: dishonestly misappropriating or converting to one's own use movable property (no prior entrustment needed, unlike breach of trust).
+Civil-case relevance: a person retaining goods or money that came into his possession and refusing to return it. Civil remedy: suit for recovery of specific movable property (Specific Relief Act Section 7) or its value.
+
+### IPC 441 / 447 / 448 -> BNS 329 | Criminal trespass and house-trespass
+Old law: IPC 441 (criminal trespass), IPC 442 (house-trespass), IPC 447 (punishment for criminal trespass), IPC 448 (punishment for house-trespass).
+New law: BNS 329(1) criminal trespass definition; BNS 329(2) house-trespass; BNS 329(3) punishment for criminal trespass - imprisonment up to 3 months, or fine up to Rs 5,000, or both; BNS 329(4) punishment for house-trespass - imprisonment up to 1 year, or fine up to Rs 5,000, or both.
+Civil-case relevance: land encroachment, neighbour entering property, ex-tenant re-entering, boundary disputes.
+Civil remedy alongside: suit for permanent injunction (Specific Relief Act Section 38), mandatory injunction to remove construction (Section 39), suit for possession (Section 5 or Section 6), temporary injunction (Order 39 Rules 1 and 2 CPC).
+Note: where a dispute over land is likely to cause a breach of the peace, the Executive Magistrate can act under BNSS Section 164 (old CrPC Section 145).
+
+### IPC 425 / 426 / 427 -> BNS 324 | Mischief (damage to property)
+Old law: IPC 425 (definition), IPC 426 (punishment), IPC 427 (mischief causing damage of fifty rupees or more).
+New law: BNS 324(1) definition; punishment in BNS 324(2) to 324(5), graded according to the amount of loss or damage caused.
+Civil-case relevance: damaging a compound wall, cutting trees on a disputed boundary, cutting water or electricity supply of a tenant, damaging a shared wall.
+Civil remedy alongside: suit for damages (compensation) and injunction.
+
+### IPC 463 / 464 / 465 / 467 / 468 / 471 -> BNS 335 / 336 / 338 / 340 | Forgery
+Old law -> New law:
+- IPC 463 forgery (definition) -> BNS 336(1)
+- IPC 464 making a false document -> BNS 335
+- IPC 465 punishment for forgery -> BNS 336(2): up to 2 years, or fine, or both
+- IPC 467 forgery of valuable security, will, etc. -> BNS 338: imprisonment for life or up to 10 years, and fine
+- IPC 468 forgery for the purpose of cheating -> BNS 336(3): up to 7 years and fine
+- IPC 469 forgery for harming reputation -> BNS 336(4)
+- IPC 470 / 471 forged document, using a forged document as genuine -> BNS 340(1) / 340(2)
+Civil-case relevance: forged sale deed, forged will, forged signature on agreement, forged rent agreement or receipt, fabricated GPA.
+Civil remedy alongside: suit for declaration that the document is void (Specific Relief Act Section 34) and for cancellation of the instrument (Specific Relief Act Section 31); limitation for cancellation is 3 years from knowledge (Limitation Act, Article 59).
+Important: executing a sale deed of property which the seller does not own is not "forgery" or "making a false document" - the remedy is civil (Mohd. Ibrahim v. State of Bihar, (2009) 8 SCC 751).
+Evidence: handwriting expert opinion and comparison of signatures are used in both civil and criminal cases.
+
+### IPC 503 / 506 -> BNS 351 | Criminal intimidation
+New law: BNS 351(1) definition; BNS 351(2) punishment up to 2 years, or fine, or both; BNS 351(3) aggravated threats (death, grievous hurt, destruction of property by fire, etc.) up to 7 years, or fine, or both.
+Civil-case relevance: threats to a tenant to vacate, threats by a builder or neighbour during a property dispute, recovery agents threatening borrowers.
+
+### IPC 499 / 500 -> BNS 356 | Defamation
+New law: BNS 356(1) definition with exceptions; BNS 356(2) punishment - simple imprisonment up to 2 years, or fine, or both, or community service.
+Civil defamation: separate civil suit for damages for defamation (a tort) can be filed in a civil court; there is no specific statute, it is governed by common law principles. Limitation for a civil defamation suit is 1 year (Limitation Act, Article 75 for libel - from the date of publication; Article 76 for slander - from when the words are spoken).
+Civil-case relevance: false allegations in social media, publications against a business.
+
+### IPC 120A / 120B -> BNS 61 | Criminal conspiracy ; IPC 34 -> BNS 3(5) | Common intention
+BNS 61(1) defines criminal conspiracy and BNS 61(2) provides punishment. BNS 3(5) replaces IPC 34 (acts done by several persons in furtherance of common intention).
+Civil-case relevance: often added in complaints when several family members or company officers are accused in property or money fraud.
+
+### IPC 191 / 193 -> BNS 227 / 229 | False evidence (perjury in civil cases)
+Old law: IPC 191 (giving false evidence), IPC 193 (punishment). New law: BNS 227 (definition), BNS 229 (punishment). False evidence in a judicial proceeding: imprisonment up to 7 years and fine.
+Civil-case relevance: false affidavit or false statement on oath in a civil suit, false verification of plaint or written statement.
+Procedure: a private complaint is NOT allowed for offences against public justice committed in relation to court proceedings; the court itself makes the complaint. Old CrPC Section 195 and Section 340 -> now BNSS Section 215 and Section 379.
+
+### IPC 498A -> BNS 85 / 86 | Cruelty by husband or relatives ; IPC 494 -> BNS 82 | Bigamy
+BNS 85: cruelty by husband or his relatives - imprisonment up to 3 years and fine. BNS 86 defines "cruelty".
+BNS 82: marrying again during the lifetime of husband or wife (bigamy).
+Civil (family) relevance: matrimonial suits for divorce, judicial separation, restitution of conjugal rights, maintenance and custody are civil proceedings in the Family Court. Maintenance under old CrPC Section 125 is now under BNSS Section 144.
+
+### Other procedural mapping useful in civil-criminal overlap cases
+- CrPC 154 (FIR) -> BNSS 173
+- CrPC 156(3) (Magistrate directing police investigation) -> BNSS 175(3). Applications must be supported by an affidavit (Priyanka Srivastava v. State of U.P., (2015) 6 SCC 287).
+- CrPC 200 (complaint to Magistrate) -> BNSS 223
+- CrPC 125 (maintenance of wife, children, parents) -> BNSS 144
+- CrPC 145 (dispute over land or water likely to cause breach of peace) -> BNSS 164
+- CrPC 482 (inherent powers of High Court, used to quash criminal cases that are really civil disputes) -> BNSS 528
+- Evidence Act 65B (certificate for electronic records such as WhatsApp chats, emails, CCTV) -> BSA Section 63
+
+### Negotiable Instruments Act, 1881 - Section 138 | Cheque bounce (not replaced by BNS)
+Section 138 NI Act continues in force; it was not replaced by BNS.
+Steps: (1) Present the cheque within its validity period (3 months from date). (2) After dishonour, send a written demand notice within 30 days of receiving information of dishonour from the bank. (3) The drawer has 15 days from receipt of notice to pay. (4) If not paid, file a complaint before the Magistrate within 1 month from the expiry of the 15 days.
+Punishment: imprisonment up to 2 years, or fine up to twice the cheque amount, or both. The offence is compoundable (Section 147). Interim compensation up to 20% of the cheque amount may be ordered (Section 143A).
+Civil remedy alongside: summary suit for recovery under Order 37 CPC based on the cheque or promissory note.

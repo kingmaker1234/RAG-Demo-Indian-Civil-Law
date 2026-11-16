@@ -1,0 +1,75 @@
+PROPERTY, TENANCY, SUCCESSION, FAMILY, CONSUMER AND REAL ESTATE LAWS - KEY CIVIL PROVISIONS
+Source type: Starter notes (verify against the official Bare Act on indiacode.nic.in before relying on them)
+
+### Transfer of Property Act, 1882 Section 54 | Sale of immovable property
+Sale of tangible immovable property of value Rs 100 or more can be made only by a registered instrument.
+A contract (agreement) for sale does not, by itself, create any interest in or charge on the property.
+Sale Agreement / General Power of Attorney / Will (SA-GPA-Will) transactions do not transfer title; immovable property can be legally transferred only by a registered deed of conveyance (Suraj Lamp & Industries (P) Ltd. v. State of Haryana, (2012) 1 SCC 656).
+
+### Transfer of Property Act Section 52 | Lis pendens (sale during pending suit)
+During the pendency of a suit in which any right to immovable property is directly and specifically in question, the property cannot be transferred so as to affect the rights of the other party under the decree, except with the court's authority. A buyer during pendency takes the property subject to the result of the suit.
+
+### Transfer of Property Act Section 53A | Part performance
+Where a transferee under a written and signed contract for transfer has taken possession (or continues in possession) in part performance and has done or is willing to perform his part, the transferor cannot enforce rights against him other than those under the contract.
+Since the 2001 amendment, such contracts must be registered (Registration Act Section 17(1A)); an unregistered agreement does not give 53A protection.
+
+### Transfer of Property Act Sections 58 and 60 | Mortgage and right of redemption
+Section 58 defines mortgage types (simple, usufructuary, English mortgage, mortgage by deposit of title deeds, etc.). Section 60: the mortgagor has the right to redeem the property on payment of the mortgage money.
+
+### Transfer of Property Act Sections 105, 106, 107, 108, 111 | Lease and tenancy
+Section 105 defines a lease. Section 107: a lease of immovable property from year to year, or for a term exceeding one year, or reserving a yearly rent, can be made only by a registered instrument.
+Section 106 (as amended in 2002): in the absence of a contract or local law, a lease for agricultural or manufacturing purposes is year to year, terminable by 6 months' notice; a lease for any other purpose (e.g. residential) is month to month, terminable by 15 days' notice. The notice must be in writing.
+Section 108: rights and liabilities of lessor and lessee. Section 111: ways a lease is determined (efflux of time, forfeiture, notice to quit, surrender, etc.).
+State rent control laws override the TPA for tenancies they cover. Examples: Delhi Rent Control Act, 1958; Maharashtra Rent Control Act, 1999; Tamil Nadu Regulation of Rights and Responsibilities of Landlords and Tenants Act, 2017; Karnataka Rent Act, 1999. The Model Tenancy Act, 2021 is a model law that states may adopt. Where a Rent Controller/Rent Authority has exclusive jurisdiction, the civil court is barred.
+Use case: tenant not vacating after expiry/termination - send a Section 106 notice (if TPA applies), then file an eviction suit (or petition before Rent Controller under the state law), and claim mesne profits/damages for use and occupation.
+
+### Transfer of Property Act Sections 122 and 123 | Gift
+Section 122: a gift is a voluntary transfer of existing property without consideration, accepted by the donee during the donor's lifetime.
+Section 123: a gift of immovable property must be by a registered instrument signed by the donor and attested by at least two witnesses.
+Gift deeds can be challenged on grounds of fraud, coercion or undue influence (suit for cancellation - Specific Relief Act Section 31). Senior citizens may seek a declaration that a transfer is void where the transferee fails to provide basic amenities, under Section 23 of the Maintenance and Welfare of Parents and Senior Citizens Act, 2007.
+
+### Registration Act, 1908 Sections 17 and 49 | Compulsory registration
+Section 17: documents that must be registered include instruments of gift of immovable property, non-testamentary instruments creating or transferring rights of value Rs 100 or more in immovable property, leases from year to year or for more than a year, and (since 2001) agreements for sale for the purposes of Section 53A TPA.
+Section 49: an unregistered document that is compulsorily registrable does not affect the immovable property and cannot be received as evidence of the transaction; but (proviso) it may be received as evidence of a contract in a suit for specific performance or as evidence of a collateral transaction.
+
+### Hindu Succession Act, 1956 Section 6 | Daughter's right in ancestral (coparcenary) property
+Since the Hindu Succession (Amendment) Act, 2005 (in force 9 September 2005), a daughter is a coparcener by birth in the same manner as a son, with the same rights and liabilities in coparcenary property.
+The daughter's right exists even if the father died before 9 September 2005; the father need not be alive on that date (Vineeta Sharma v. Rakesh Sharma, (2020) 9 SCC 1). Partitions effected by a registered partition deed or a court decree before 20 December 2004 are protected.
+Use case: brothers refusing to give sister a share in ancestral property - sister can file a suit for partition and separate possession, with a temporary injunction against alienation.
+
+### Hindu Succession Act Sections 8, 14, 15 | Succession to self-acquired property
+Section 8: property of a Hindu male dying intestate goes first to Class I heirs (including widow, sons, daughters, mother, and heirs of predeceased children) in equal shares as per the Schedule.
+Section 14: property possessed by a Hindu female is held by her as full owner (absolute property).
+Section 15: general rules of succession for a Hindu female dying intestate.
+
+### Wills - Indian Succession Act, 1925 Section 63 ; proof of a will
+A will must be signed by the testator and attested by two or more witnesses, each of whom has seen the testator sign.
+To prove a will in court, at least one attesting witness must be examined if alive and capable of giving evidence (old Evidence Act Section 68, now carried into the Bharatiya Sakshya Adhiniyam, 2023). The propounder must also remove any suspicious circumstances surrounding the execution of the will.
+A will can be challenged in a civil suit (or in probate/letters of administration proceedings) on grounds of forgery, lack of sound mind, undue influence or improper execution.
+
+### Partition suits - practical steps
+1. Send a legal notice demanding partition. 2. File a suit for partition and separate possession where the property is situated (CPC Section 16) with all co-sharers as parties. 3. Seek a temporary injunction against alienation (Order 39 CPC). 4. Court passes a preliminary decree declaring shares and then a final decree dividing by metes and bounds (Order 20 Rule 18; Order 26 Rule 13). Under the Partition Act, 1893 the court may order sale and distribution of proceeds where division is not reasonably possible.
+Limitation: a co-owner in joint possession has a continuing right; a person excluded from joint family property must sue within 12 years of knowledge of exclusion (Limitation Act, Article 110).
+
+### Family law (civil proceedings in Family Court)
+Family Courts Act, 1984: Family Courts have exclusive jurisdiction over matrimonial suits, declarations of marital status, property disputes between spouses, maintenance, and guardianship/custody of children in areas where they are established.
+Hindu Marriage Act, 1955: Section 9 restitution of conjugal rights; Section 10 judicial separation; Section 13 divorce on grounds such as cruelty, desertion for 2 years, conversion, unsound mind; Section 13B divorce by mutual consent after living separately for 1 year, with a second motion after 6 months - the 6-month waiting period can be waived by the court (Amardeep Singh v. Harveen Kaur, (2017) 8 SCC 746). Section 24 maintenance pendente lite; Section 25 permanent alimony. The Supreme Court can dissolve a marriage on irretrievable breakdown under Article 142 (Shilpa Sailesh v. Varun Sreenivasan, Constitution Bench, 2023).
+Maintenance: guidelines on overlapping maintenance claims and mandatory affidavit of assets and liabilities - Rajnesh v. Neha, (2021) 2 SCC 324. Maintenance under BNSS Section 144 (old CrPC 125).
+Protection of Women from Domestic Violence Act, 2005: right to reside in the shared household (Section 17), protection, residence and monetary orders. A shared household can include the in-laws' house where the woman lived (Satish Chander Ahuja v. Sneha Ahuja, (2021) 1 SCC 414).
+
+### Consumer Protection Act, 2019 | Deficiency in service / defective goods
+A consumer can file a complaint for defective goods, deficiency in service, unfair trade practice, or overcharging.
+Pecuniary jurisdiction (based on the value of goods/services paid as consideration, under the 2021 Jurisdiction Rules): District Commission up to Rs 50 lakh; State Commission above Rs 50 lakh up to Rs 2 crore; National Commission above Rs 2 crore.
+A complaint can be filed where the complainant resides or personally works for gain (Section 34), and can be filed online through the e-Daakhil portal. Limitation: 2 years from the date the cause of action arises (Section 69).
+Use case: bank, insurer, hospital, builder, e-commerce seller or service provider failing in service - consumer complaint is cheaper and faster than a civil suit.
+
+### Real Estate (Regulation and Development) Act, 2016 (RERA) | Builder delay
+Section 18: if the promoter fails to complete or give possession of an apartment, plot or building as per the agreement, the allottee may withdraw and get a refund with interest and compensation, or, if not withdrawing, get interest for every month of delay until possession.
+Complaints go to the state Real Estate Regulatory Authority (Section 31); compensation is decided by the Adjudicating Officer (Section 71). Homebuyers may also approach the Consumer Commission; the remedies are concurrent.
+Use case: builder took booking amount and has not delivered the flat for years.
+
+### Indian Contract Act, 1872 | Key sections for money and contract disputes
+Section 10: what agreements are contracts (free consent, competent parties, lawful consideration and object). Sections 14 to 19: free consent; contracts induced by coercion, undue influence, fraud or misrepresentation are voidable.
+Section 73: compensation for loss or damage caused by breach of contract (losses which naturally arose or which parties knew were likely). Section 74: compensation where a sum is named in the contract as liquidated damages or penalty - only reasonable compensation not exceeding the amount named.
+Section 65: obligation to restore any advantage received under a void agreement or contract that becomes void.
+Use case: supplier or contractor breached a contract - suit for damages under Section 73/74, or recovery of advance paid under Section 65.

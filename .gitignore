@@ -1,0 +1,48 @@
+# ---- Secrets (NEVER commit API keys) ----
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# ---- Python virtual environments ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- Python cache / build files ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ---- Local FAISS vector DB (rebuild with: python ingest.py) ----
+faiss_index/
+
+# ---- Uploaded / large legal documents ----
+# Files uploaded from the chatbot
+data/uploads/*
+!data/uploads/.gitkeep
+# Big PDFs of Bare Acts and judgments (remove these 4 lines if you DO want to commit them)
+data/bare_acts/*
+!data/bare_acts/.gitkeep
+data/judgments/*
+!data/judgments/.gitkeep
+
+# ---- Hugging Face model cache (if you ever point it inside the project) ----
+.cache/
+hf_models/
+
+# ---- Logs ----
+*.log
+
+# ---- IDE / editor ----
+.vscode/
+.idea/
+*.swp
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+desktop.ini

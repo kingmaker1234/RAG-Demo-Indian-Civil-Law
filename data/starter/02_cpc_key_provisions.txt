@@ -1,0 +1,88 @@
+CODE OF CIVIL PROCEDURE, 1908 (CPC) - KEY SECTIONS AND ORDERS WITH PRACTICAL USE
+Source type: Starter notes (verify against the official Bare Act on indiacode.nic.in before relying on them)
+
+### CPC Section 9 | Civil courts can try all civil suits unless barred
+Civil courts have jurisdiction to try all suits of a civil nature except suits whose cognizance is expressly or impliedly barred (for example, matters exclusively given to Rent Controllers, Consumer Commissions, RERA, DRT, Family Courts, or revenue courts under state land laws).
+Use case: before filing, check whether a special law bars the civil court for that dispute.
+
+### CPC Sections 15 to 20 | Where to file the suit (territorial and pecuniary jurisdiction)
+Section 15: every suit shall be instituted in the court of the lowest grade competent to try it.
+Section 16: suits relating to immovable property (recovery, partition, foreclosure, determination of rights) must be filed where the property is situated.
+Section 19: suits for compensation for wrongs to person or movable property - where the wrong was done or where the defendant resides/carries on business, at the plaintiff's option.
+Section 20: other suits - where the defendant resides or carries on business, or where the cause of action wholly or partly arises.
+Pecuniary limits of courts (Civil Judge Junior Division, Senior Division, District Court) are fixed by each State's Civil Courts Act and differ from state to state. Court fees are governed by the State's Court Fees Act.
+
+### CPC Section 10 (res sub judice) and Section 11 (res judicata)
+Section 10: a court shall not proceed with the trial of a suit where the matter directly and substantially in issue is also directly and substantially in issue in a previously instituted suit between the same parties pending in a competent court.
+Section 11: no court shall try a suit or issue that was directly and substantially in issue in a former suit between the same parties and has been heard and finally decided by a competent court.
+Use case: defendant can seek stay of a second suit (Section 10) or dismissal of a re-filed suit (Section 11).
+
+### CPC Section 80 | Notice before suing the Government or a public officer
+A suit against the Government or a public officer (for an act in official capacity) can be filed only after 2 months from delivery of a written notice stating the cause of action, name, and relief claimed.
+Section 80(2): in urgent matters, the suit may be filed without notice with leave of the court, but no relief (interim or otherwise) is granted without giving the Government a reasonable opportunity to show cause.
+
+### CPC Section 89 | Settlement of disputes outside court (ADR)
+Where elements of settlement exist, the court may refer the dispute to arbitration, conciliation, judicial settlement including Lok Adalat, or mediation.
+Commercial disputes: under Section 12A of the Commercial Courts Act, 2015, pre-institution mediation is mandatory unless the suit seeks urgent interim relief (Patil Automation Pvt. Ltd. v. Rakheja Engineers Pvt. Ltd., (2022) 10 SCC 1).
+Lok Adalat award is deemed a decree of a civil court and is final; no appeal lies (Legal Services Authorities Act, 1987, Section 21).
+
+### Order 4 and Order 7 | Filing the plaint
+A suit starts by presenting a plaint (Order 4 Rule 1). Order 7 lists what a plaint must contain: name of court, parties, facts constituting the cause of action and when it arose, facts showing jurisdiction, relief claimed, valuation for jurisdiction and court fee.
+Order 7 Rule 11 - rejection of plaint: (a) no cause of action disclosed; (b) relief undervalued and not corrected within time; (c) insufficiently stamped and not corrected within time; (d) suit appears from the plaint to be barred by any law (e.g. limitation); (e) not filed in duplicate; (f) non-compliance with Rule 9.
+Use case: defendant files an Order 7 Rule 11 application at the start to get a frivolous or time-barred suit thrown out without trial (T. Arivandandam v. T.V. Satyapal, (1977) 4 SCC 467).
+
+### Order 8 Rule 1 | Written statement (defendant's reply)
+Defendant must file the written statement within 30 days from service of summons. The court may extend it, for reasons recorded in writing, up to 90 days from service. For ordinary civil suits the 90-day limit is directory, not mandatory (Kailash v. Nanhku, (2005) 4 SCC 480).
+Commercial suits: the outer limit is 120 days and it is mandatory; after 120 days the right to file the written statement is forfeited (SCG Contracts (India) Pvt. Ltd. v. K.S. Chamankar Infrastructure Pvt. Ltd., (2019) 12 SCC 210).
+Order 8 Rule 6A: defendant can file a counter-claim.
+
+### Order 6 Rule 17 | Amendment of pleadings
+The court may allow either party to amend pleadings at any stage if necessary to decide the real controversy. After the trial has commenced, amendment is not allowed unless the court concludes that, despite due diligence, the party could not have raised the matter before the commencement of trial.
+
+### Order 9 | Appearance and consequences of non-appearance (ex parte decree)
+If the plaintiff does not appear, the suit may be dismissed for default (Order 9 Rule 8); restoration under Order 9 Rule 9.
+If the defendant does not appear despite service, the court may proceed ex parte.
+Order 9 Rule 13: the defendant can apply to set aside an ex parte decree by showing that summons was not duly served or that he was prevented by sufficient cause from appearing. Limitation: 30 days from the date of decree, or where summons was not duly served, from the date of knowledge of the decree (Limitation Act, Article 123).
+
+### Order 37 | Summary suits (fast recovery of money)
+Available for suits on bills of exchange, hundis, promissory notes (including cheques), and suits to recover a debt or liquidated demand payable under a written contract, an enactment, or a guarantee.
+The defendant cannot defend as of right. He must first enter appearance within 10 days of service of summons, and then apply for leave to defend within 10 days of service of the summons for judgment, by showing a substantial defence or triable issue. If leave is refused, the plaintiff gets a decree immediately.
+Use case: friend/client gave a cheque or signed promissory note and is not paying - fastest civil route for money recovery. Can be filed alongside a Section 138 NI Act cheque bounce complaint.
+
+### Order 39 Rules 1, 2, 2A, 3 | Temporary injunction (stay order)
+Rule 1: where property in dispute is in danger of being wasted, damaged, alienated or wrongfully sold, or the defendant threatens to dispossess the plaintiff, the court may grant a temporary injunction.
+Rule 2: injunction to restrain breach of contract or other injury.
+Three tests (Dalpat Kumar v. Prahlad Singh, (1992) 1 SCC 719): (1) prima facie case, (2) balance of convenience in favour of the applicant, (3) irreparable injury if the injunction is refused.
+Rule 3: ex parte injunction can be granted without notice to the other side in urgent cases, but reasons must be recorded and the applicant must send copies to the opposite party.
+Rule 2A: disobedience of an injunction - court may attach property of the person disobeying and order detention in civil prison for up to 3 months.
+Use case: neighbour starting construction on disputed land, co-owner trying to sell joint property, builder trying to sell a flat already booked.
+
+### Order 26 | Commissions (local inspection, measurement, partition)
+Order 26 Rule 9: the court may appoint a commissioner for local investigation - e.g. to measure land, identify encroachment, or verify the condition of property. Order 26 Rule 13 and 14: commission to make partition of immovable property.
+Use case: boundary and encroachment disputes - apply for appointment of an Advocate Commissioner and a surveyor.
+
+### Order 20 Rule 18 | Partition suits - preliminary and final decree
+In a suit for partition of immovable property, the court first passes a preliminary decree declaring the rights/shares of the parties, and then a final decree dividing the property by metes and bounds (often through a commissioner under Order 26 Rule 13).
+
+### Order 21 | Execution of decrees
+A decree-holder applies to the court that passed the decree (or to which it is transferred) for execution. Modes include delivery of property, attachment and sale of property, arrest and detention in civil prison, and appointment of receiver.
+Limitation for execution of a decree (other than a decree for mandatory injunction): 12 years from when the decree becomes enforceable (Limitation Act, Article 136).
+
+### Order 22 | Death of a party during the suit
+On the death of a plaintiff or defendant, the legal representatives must be brought on record within 90 days (Limitation Act, Article 120); otherwise the suit abates as against the deceased. Abatement can be set aside on sufficient cause.
+
+### Order 32 | Suits by or against minors ; Order 33 | Suits by indigent persons
+Order 32: a minor sues through a next friend and is defended by a guardian ad litem appointed by the court.
+Order 33: a person without sufficient means to pay court fee may sue as an indigent person (pauper) with the permission of the court.
+
+### Appeal, review and revision
+Section 96: appeal lies from every original decree to the next higher court (District Court or High Court depending on valuation). Limitation: 30 days if to a District/Subordinate Court; 90 days if to the High Court (Limitation Act, Article 116).
+Section 100: second appeal to the High Court only if the case involves a substantial question of law.
+Section 104 and Order 43: appeals from certain orders (e.g. order granting or refusing a temporary injunction - Order 43 Rule 1(r)).
+Section 114 and Order 47: review by the same court on discovery of new evidence, error apparent on the face of the record, or other sufficient reason. Limitation: 30 days (Limitation Act, Article 124).
+Section 115: revision by the High Court on jurisdictional errors where no appeal lies; no revision against an interlocutory order unless the order, if made in favour of the applicant, would have finally disposed of the suit.
+
+### CPC Section 151 | Inherent powers ; Section 35 and 35A | Costs
+Section 151: the court can make orders necessary for the ends of justice or to prevent abuse of the process of court, where no specific provision applies.
+Section 35: costs follow the event. Section 35A: compensatory costs for false or vexatious claims or defences.
+Section 144: restitution - when a decree is varied or reversed, the court restores the party to the position it would have occupied.

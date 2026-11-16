@@ -1,0 +1,56 @@
+COMMON CIVIL USE CASES IN INDIA - WHICH LAW, WHICH COURT, WHAT STEPS
+Source type: Starter notes linking real-life situations to the provisions in the other starter files. General legal information, not legal advice.
+
+### Use case: Neighbour encroached on my land / is building a wall on my property
+Civil law: suit for declaration of title (if title disputed) + permanent injunction (Specific Relief Act Section 38) + mandatory injunction to remove the construction (Section 39) + recovery of possession of the encroached portion (Section 5). Apply immediately for a temporary injunction (Order 39 Rules 1 and 2 CPC) to stop construction, and for appointment of an Advocate Commissioner/surveyor (Order 26 Rule 9 CPC) to measure the land.
+Court: civil court where the property is situated (CPC Section 16), as per valuation.
+Limitation: possession based on title - 12 years (Limitation Act Article 65). But act quickly to obtain an injunction before construction is complete.
+Related criminal provisions: criminal trespass IPC 447 -> BNS 329(3); mischief IPC 427 -> BNS 324; criminal intimidation IPC 506 -> BNS 351. If breach of peace is likely, proceedings before the Executive Magistrate under BNSS 164 (old CrPC 145).
+Documents: sale deed, patta/khata/7-12 extract or other revenue records, approved layout/FMB sketch, survey report, photographs.
+
+### Use case: I paid advance under an agreement to sell, but the seller refuses to execute the sale deed
+Civil law: suit for specific performance (Specific Relief Act Section 10; prove readiness and willingness under Section 16(c)); alternatively or additionally, refund of advance with interest (Contract Act Sections 65, 73). Seek a temporary injunction restraining the seller from selling to anyone else (Order 39 CPC). Once the suit is filed, lis pendens (TPA Section 52) protects against transfers.
+Limitation: 3 years from the date fixed for performance or from notice of refusal (Limitation Act Article 54).
+Related criminal provisions: only if the seller never intended to sell from the start or sold to someone else after taking money - cheating IPC 420 -> BNS 318(4). A mere refusal later is a civil breach (Hridaya Ranjan Prasad Verma, (2000) 4 SCC 168).
+
+### Use case: Someone forged my signature / created a fake sale deed or will of my property
+Civil law: suit for declaration that the document is void and for cancellation of the instrument (Specific Relief Act Sections 31 and 34), with possession/injunction as consequential relief. Apply for a temporary injunction against further transfer. Seek handwriting expert examination.
+Limitation: cancellation - 3 years from when the plaintiff came to know of the document (Limitation Act Article 59).
+Related criminal provisions: forgery IPC 465/467/468/471 -> BNS 336(2), 338, 336(3), 340(2); cheating IPC 420 -> BNS 318(4); conspiracy IPC 120B -> BNS 61(2). File an FIR (BNSS 173) or a complaint before the Magistrate (BNSS 223).
+
+### Use case: I lent money to a friend / relative and they are not repaying
+Civil law: send a legal notice; file a money recovery suit. If there is a cheque, promissory note or written agreement, file a summary suit under Order 37 CPC (faster; defendant needs leave to defend). Claim interest.
+Limitation: 3 years from when the loan was made (Limitation Act Article 19). A written acknowledgment or part-payment before expiry restarts the limitation period (Limitation Act Sections 18 and 19).
+Related criminal provisions: if a cheque was given and bounced - Section 138 NI Act complaint (notice within 30 days of dishonour, 15 days to pay, complaint within 1 month thereafter). Non-repayment of a loan alone is NOT cheating or criminal breach of trust unless dishonest intention existed at the beginning.
+
+### Use case: Tenant is not vacating / not paying rent
+Civil law: check whether the state rent control law applies. If the TPA applies, terminate the tenancy by a written notice under Section 106 TPA (15 days for a month-to-month residential tenancy), then file an eviction suit with a claim for arrears of rent and mesne profits/damages for use and occupation. If rent control law applies, file an eviction petition before the Rent Controller/Rent Authority on the grounds allowed by that law (default in rent, bona fide personal need, subletting, etc.).
+Limitation: landlord's suit for possession - 12 years from determination of tenancy (Limitation Act Article 67); arrears of rent - 3 years from when the arrears become due (Article 52).
+Note: the landlord must not forcibly evict, cut electricity/water, or lock out the tenant; the tenant can then sue under Specific Relief Act Section 6 within 6 months, and criminal provisions like criminal trespass (BNS 329) and criminal intimidation (BNS 351) may apply.
+
+### Use case: Landlord forcibly evicted me / locked my premises without court order
+Civil law: suit under Specific Relief Act Section 6 to recover possession within 6 months of dispossession - title is not relevant, only prior possession and illegal dispossession. Seek a mandatory injunction for restoration. Settled possession is protected even against the owner (Rame Gowda v. M. Varadappa Naidu, (2004) 1 SCC 769).
+Related criminal provisions: house-trespass IPC 448 -> BNS 329(4); mischief -> BNS 324; criminal intimidation -> BNS 351.
+
+### Use case: Brothers refusing to give the sister a share in father's / ancestral property
+Civil law: suit for partition and separate possession. For coparcenary (ancestral) property, the daughter is a coparcener by birth (Hindu Succession Act Section 6; Vineeta Sharma v. Rakesh Sharma, (2020) 9 SCC 1). For the father's self-acquired property where he died without a will, she is a Class I heir with an equal share (Section 8). Seek a temporary injunction against sale/alienation.
+Court: civil court where the property is situated. Process: preliminary decree (shares) then final decree (division) - Order 20 Rule 18 CPC.
+Limitation: if excluded from joint family property, 12 years from knowledge of exclusion (Limitation Act Article 110).
+If the brothers rely on a will, it must be proved by examining an attesting witness and removing suspicious circumstances.
+
+### Use case: Builder took my money and has not delivered the flat
+Options: (1) RERA complaint under Section 18 for refund with interest or interest for delay (if the project is registered under RERA); (2) consumer complaint for deficiency in service before the District/State/National Commission depending on the amount paid (up to Rs 50 lakh District; up to Rs 2 crore State; above Rs 2 crore National) within 2 years of the cause of action; (3) civil suit for refund/specific performance.
+Related criminal provisions: cheating IPC 420 -> BNS 318(4) and criminal breach of trust IPC 406 -> BNS 316 only if there is evidence of dishonest intention or diversion of funds.
+
+### Use case: A civil money/property dispute has been converted into a false criminal case against me
+Options: apply for anticipatory bail if arrest is apprehended (BNSS Section 482, old CrPC 438); file a petition before the High Court to quash the FIR/complaint under BNSS Section 528 (old CrPC 482), relying on Indian Oil Corporation v. NEPC India Ltd., (2006) 6 SCC 736, Hridaya Ranjan Prasad Verma v. State of Bihar, (2000) 4 SCC 168, and Mohd. Ibrahim v. State of Bihar, (2009) 8 SCC 751. Keep pursuing or defending the civil suit in parallel.
+
+### Use case: An ex parte decree was passed against me without my knowledge
+Options: application under Order 9 Rule 13 CPC to set aside the ex parte decree within 30 days of the decree or of knowledge where summons was not duly served (Limitation Act Article 123), with an application for condonation of delay under Limitation Act Section 5 if late; and/or a regular first appeal under Section 96 CPC (30 or 90 days). Seek stay of execution.
+
+### Use case: I want to file a case against a Government department
+Civil law: send a statutory notice under CPC Section 80 and wait 2 months before filing the suit, unless urgent relief is needed (Section 80(2) with leave of court). For service matters or fundamental rights issues, a writ petition before the High Court (Article 226 of the Constitution) may be the appropriate remedy.
+
+### Use case: A business partner / company did not pay for goods or services supplied
+Civil law: if the claim is a commercial dispute of Rs 3 lakh or more, file before the Commercial Court after mandatory pre-institution mediation under Section 12A Commercial Courts Act (unless urgent interim relief is needed). If based on invoices accepted in writing or a written contract, an Order 37 summary suit is possible. If the debtor is a company with a default of Rs 1 crore or more, insolvency proceedings under IBC Section 9 may be an option. MSME suppliers can approach the MSME Facilitation Council (MSMED Act, 2006 Section 18).
+Limitation: generally 3 years (e.g. Limitation Act Article 14 - price of goods sold and delivered, from date of delivery; Article 113 - residuary).
